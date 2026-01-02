@@ -1,2 +1,40 @@
+# Visual Studio
 .vs/
 **/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Build results
+bin/
+obj/
+**/bin/
+**/obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+**/packages/
+
+# Test results
+TestResults/
+
+# Publish
+**/publish/
+
+# Node (nếu có frontend)
+node_modules/
+dist/
+build/
+.env
+.env.*
