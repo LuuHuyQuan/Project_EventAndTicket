@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +17,5 @@ namespace Models
         public DateTime? RevokedAt { get; set; }
         public bool IsRevoked { get; set; }
         public bool IsUsed { get; set; }
-
-    } 
+    }
 }
