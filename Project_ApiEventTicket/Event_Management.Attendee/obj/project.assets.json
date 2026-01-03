@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luu Huy Quan\\Source\\Repos\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\Event_Management.Attendee.csproj",
+      "projectUniqueName": "C:\\Users\\Luu Huy Quan\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\Event_Management.Attendee.csproj",
       "projectName": "Event_Management.Attendee",
-      "projectPath": "C:\\Users\\Luu Huy Quan\\Source\\Repos\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\Event_Management.Attendee.csproj",
+      "projectPath": "C:\\Users\\Luu Huy Quan\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\Event_Management.Attendee.csproj",
       "packagesPath": "C:\\Users\\Luu Huy Quan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luu Huy Quan\\Source\\Repos\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\obj\\",
+      "outputPath": "C:\\Users\\Luu Huy Quan\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

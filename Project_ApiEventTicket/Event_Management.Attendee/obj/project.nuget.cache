@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+8sC3SGgX5I=",
+  "dgSpecHash": "Y1+Sc3hwNK0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luu Huy Quan\\Source\\Repos\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\Event_Management.Attendee.csproj",
+  "projectFilePath": "C:\\Users\\Luu Huy Quan\\Project_EventAndTicket\\Project_ApiEventTicket\\Event_Management.Attendee\\Event_Management.Attendee.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luu Huy Quan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Luu Huy Quan\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
