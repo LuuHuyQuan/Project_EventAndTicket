@@ -1,7 +1,6 @@
-
-﻿using System;
-﻿using Microsoft.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +8,6 @@ using System.Threading.Tasks;
 
 namespace Data
 {
-
-
     public interface ISqlConnectionFactory
     {
         SqlConnection Create();
@@ -27,6 +24,5 @@ namespace Data
         {
             return new SqlConnection(_cs);
         }
-
-    }
+     }
 }
