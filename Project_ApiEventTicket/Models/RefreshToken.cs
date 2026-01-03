@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
+
     public class RefreshToken
     {
         public int RefreshTokenId { get; set; }
@@ -17,5 +18,6 @@ namespace Models
         public DateTime? RevokedAt { get; set; }
         public bool IsRevoked { get; set; }
         public bool IsUsed { get; set; }
-    }
+    } 
+
 }

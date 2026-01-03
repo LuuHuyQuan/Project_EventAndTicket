@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
+<<<<<<< HEAD
     public class NguoiDung
     {
         public int NguoiDungId { get; set; }
@@ -17,5 +18,9 @@ namespace Models
         public bool? TrangThai { get; set; }
         public string TenDangNhap { get; set; } = null!;
         public string? SoDienThoai { get; set; }
+=======
+    internal class NguoiDung
+    {
+>>>>>>> fbccb78aa3ea25cdd5cd36b2a63c353ebb74cb7f
     }
 }
