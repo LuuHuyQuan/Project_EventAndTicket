@@ -1,4 +1,5 @@
-using Microsoft.Data.SqlClient;
+﻿<<<<<<< HEAD
+﻿using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -8,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace Data
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d533be69f1fbccc5a00250b4152ec221b80709a0
     public interface ISqlConnectionFactory
     {
         SqlConnection Create();
@@ -24,5 +29,12 @@ namespace Data
         {
             return new SqlConnection(_cs);
         }
-     }
+<<<<<<< HEAD
+=======
+=======
+    internal class SqlConnectionFactory
+    {
+>>>>>>> fbccb78aa3ea25cdd5cd36b2a63c353ebb74cb7f
+>>>>>>> d533be69f1fbccc5a00250b4152ec221b80709a0
+    }
 }
